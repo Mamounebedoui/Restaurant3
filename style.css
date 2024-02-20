@@ -1,0 +1,44 @@
+.nav1{
+background-color: rgb(249, 183, 0) !important ;
+}
+body{
+    background-image: url(https://previews.123rf.com/images/romastudio/romastudio1603/romastudio160300203/54088672-healthy-food-background-studio-photo-of-different-fruits-and-vegetables-on-white-wooden-table-high.jpg);
+    background-size: contain;
+}
+.nav2{
+    position: relative;
+    left: 30%;
+}
+.hero{
+
+background-image: url(https://img.freepik.com/premium-photo/asian-korean-food-chopsticks-wooden-background_94255-4973.jpg) !important;
+background-repeat: no-repeat;
+background-size : 1500px;
+
+height: 300px;
+
+}
+.center{
+    
+    justify-content: center ;
+    
+}
+.btn{
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+h1, h2 {
+    color: burlywood !important;
+}
+.card{
+
+    display: flex inline !important;
+    justify-content: space-between;
+    align-items: center;
+}
+.img{
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
